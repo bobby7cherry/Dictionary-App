@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="Open">Open</string>
+    <string name="close">Close</string>
+    <string name="newupdateavaliable">
+        <a href="https://play.google.com/store/apps/details?id=you.dictionary.english.to.hindihl=en_IN">Title:New update avaliable</a>
+    </string>
+</resources>
